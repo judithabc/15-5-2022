@@ -1,16 +1,10 @@
 ## Welcome
 
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
 - 认真写了
 - 先写长篇
 
-1. 其实就
-2. 零食吧
+其实就
+零食吧
 讲真，这个可以关联
 就馆系列里面，我同意钟表馆最有技术含量。
 
@@ -22,22 +16,5 @@
 
 路线：钟表-五个-（瞒天记）较量-嫌疑人x
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### TITLE
-
-CONTENT
-
-### 1
-
-CONTENT
-
-### 2
-
-CONTENT
 
 这是我的[主页](https://judithabc.github.io/)
