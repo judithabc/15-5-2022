@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/judithabc/15-5-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 认真写了
+- 先写长篇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 其实就
+2. 零食吧
+讲真，这个可以关联
+就馆系列里面，我同意钟表馆最有技术含量。
 
-### Markdown
+概括为：内外流速不同
+⭐利用江南做了一份内部时间线，且同时在外部利用鹿岛做了alibi
+可以说，很有故事性，且结合整个系列的风格，诡异的、带来不幸的建筑-和巧妙的机关
+线索给的很友善：永远的事情，为什么（忘掉好像不是很科学）会恨他们，为什么是问了一个问题
+确实永远会想要出去玩，计划（悲剧的、不必要的、没有可能反而更好的？）至少有，导致了更悲惨的结局
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/judithabc/15-5-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这是我的[主页](https://judithabc.github.io/)
